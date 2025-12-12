@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-WEBHOOK_URL = "https://agentonline-u29564.vm.elestio.app/webhook-test/bbe644ab-agentflow"
+WEBHOOK_URL = "https://agentonline-u29564.vm.elestio.app/webhook/bbe644ab-agentflow"
 
 st.title("Business Profile Questionnaire")
 
